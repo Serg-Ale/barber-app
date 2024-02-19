@@ -50,10 +50,9 @@ const SideMenu = () => {
             className="w-full justify-start"
             variant={"secondary"}
             onClick={handleLoginClick}
-          >
-            <LogInIcon className="mr-2" size={18} />
-            Fazer Login
-          </Button>
+          ></Button>
+          <LogInIcon className="mr-2" size={18} />
+          Fazer Login
         </div>
       )}
 
