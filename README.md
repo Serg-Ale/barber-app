@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## App preview
+
+![image](https://github.com/Serg-Ale/barber-app/assets/74671270/c8c81ef3-f6d0-44b3-82b3-360dd75649f9)
+
+![image](https://github.com/Serg-Ale/barber-app/assets/74671270/ab0665ad-7254-4db7-a978-d16f825aa653)
+
+![image](https://github.com/Serg-Ale/barber-app/assets/74671270/4a0a57d7-a1ca-417f-a975-a1e596887833)
 
 ## Getting Started
 
